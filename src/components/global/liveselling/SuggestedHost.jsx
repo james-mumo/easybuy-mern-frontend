@@ -11,7 +11,7 @@ const SuggestedHost = () => {
             className="hostShopLogo h-10 w-10 rounded-lg overflow-hidden border-[1px] border-gray-600"
           />
           <div className="hostInfo text-sm flex flex-col">
-            <span className="showOwnerName font-semibold">Njoki Murira</span>
+            <span className="showOwnerName font-semibold">Michael Kinyanjui</span>
             <span className="shopCategory">Kid's Clothes</span>
           </div>
         </div>
