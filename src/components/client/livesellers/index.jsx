@@ -66,8 +66,8 @@ const LiveSellingPage = () => {
                 className="cureentHostShopImg w-10 h-10 border-[2px] border-gray-700 overflow-hidden rounded-2xl"
               />
               <div className="hostTitleAndDetails flex flex-col opacity-90">
-                <span className="hostShopTitle font-bold">BenaWaLines</span>
-                <span className="hostName text-sm">Benard Njuguna</span>
+                <span className="hostShopTitle font-bold">JamesMumo</span>
+                <span className="hostName text-sm">James Mumo</span>
               </div>
               <div className="hostSellDetailsHeader flex flex-col">
                 <span className="typeOfLive text-md font-semibold">
